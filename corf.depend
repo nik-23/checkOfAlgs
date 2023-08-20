@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1691592504 source:c:\users\vavre\onedrive\Рабочий стол\corser\arr_and_vec_utils.c
+	"arr_and_vec_utils.h"
+
+1683978196 c:\users\vavre\onedrive\Рабочий стол\corser\arr_and_vec_utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1692543500 source:c:\users\vavre\onedrive\Рабочий стол\corser\main.c
+	"out_of_vec.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1684174343 c:\users\vavre\onedrive\Рабочий стол\corser\out_of_vec.h
+	"math.h"
+
+1684173608 source:c:\users\vavre\onedrive\Рабочий стол\corser\measurements.c
+	"Measurements.h"
+	"arr_and_vec_utils.h"
+	"out_of_vec.h"
+
+1684174343 c:\users\vavre\onedrive\Рабочий стол\corser\measurements.h
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1684181614 source:c:\users\vavre\onedrive\Рабочий стол\corser\out_of_vec.c
+	"Measurements.h"
+	"out_of_vec.h"
+	"arr_and_vec_utils.h"
+	"sorting_algorithms.h"
+
+1684247385 c:\users\vavre\onedrive\Рабочий стол\corser\sorting_algorithms.h
+	"Measurements.h"
+
+1684173402 source:c:\users\vavre\onedrive\Рабочий стол\corser\sorting_algorithms.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"sorting_algorithms.h"
+	"arr_and_vec_utils.h"
+	"Measurements.h"
+
